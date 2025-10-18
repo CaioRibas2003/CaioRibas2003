@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Caio Ribas!
+# 👋 Hey, I'm Caio Ribas! :flag_br:
 
-### 💻 Software Engineer | 🎮 Gamer 
+### 💻 Software Engineer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CaioRibas2003&color=blueviolet&style=flat-square)
 
@@ -16,6 +16,7 @@
 public class CaioRibas {
     private String name = "Caio Algarte Ribas";
     private int age = 22;
+    private String nation = "Brazil"
     private String education = "Software Engineering @ Unifil (2nd Year)";
     private String favoriteLanguage = "Java";
     private String[] hobbies = {"Gaming", "Coding", "Learning New Tech, soccer"};
@@ -51,9 +52,9 @@ public class CaioRibas {
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioRibas2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRibas2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioRibas2003&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRibas2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
 </div>
 
@@ -70,17 +71,6 @@ public class CaioRibas {
 [![GitHub](https://img.shields.io/badge/GitHub-CaioRibas2003-181717?style=for-the-badge&logo=github)](https://github.com/CaioRibas2003)
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
