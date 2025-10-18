@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Caio Ribas! :flag_br:
+# 👋 Hey, I'm Caio Ribas!
 
 ### 💻 Software Engineer 
 
