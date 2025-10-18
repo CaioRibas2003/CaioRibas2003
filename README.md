@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Caio Algarte Ribas!
+# 👋 Hey, I'm Caio Ribas!
 
-### 💻 Software Engineer in the Making | 🎮 Gamer | ☕ Java Enthusiast
+### 💻 Software Engineer | 🎮 Gamer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CaioRibas2003&color=blueviolet&style=flat-square)
 
@@ -18,7 +18,7 @@ public class CaioRibas {
     private int age = 22;
     private String education = "Software Engineering @ Unifil (2nd Year)";
     private String favoriteLanguage = "Java";
-    private String[] hobbies = {"Gaming", "Coding", "Learning New Tech"};
+    private String[] hobbies = {"Gaming", "Coding", "Learning New Tech, soccer"};
     
     public void sayHi() {
         System.out.println("Thanks for visiting my profile! Let's build something amazing! 🚀");
@@ -30,15 +30,15 @@ public class CaioRibas {
 
 - 📚 **Software Engineering Student** at **Unifil**
 - 🎯 Currently in my **2nd year**
-- 💡 Constantly learning and growing in the tech world
+- 🔒 **Cibersecurity Student** at **Anhanguera**
+- 💡 Constantly learning and improving
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### What I´ve been learning
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -59,9 +59,9 @@ public class CaioRibas {
 
 ## 🎮 When I'm Not Coding...
 
-- 🎮 You'll find me gaming and exploring virtual worlds
+- 🎮 You'll find me gaming or hanging out with friends
 - 🕹️ Always up for a good multiplayer session
-- 🏆 Achieving both virtual and real-life goals!
+
 
 ## 📫 Let's Connect!
 
@@ -78,9 +78,6 @@ public class CaioRibas {
 ### 💭 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/CaioRibas2003/CaioRibas2003/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
@@ -89,6 +86,7 @@ public class CaioRibas {
   
 **⭐️ From [CaioRibas2003](https://github.com/CaioRibas2003) with ❤️**
 
-*"First, solve the problem. Then, write the code."* – John Johnson
+*“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
+— Robert C. Martin (Uncle Bob)
 
 </div>
