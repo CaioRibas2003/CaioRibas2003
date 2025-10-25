@@ -69,6 +69,8 @@ public class CaioRibas {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CaioRibas2003-181717?style=for-the-badge&logo=github)](https://github.com/CaioRibas2003)
+[![Instagram](https://img.shields.io/badge/Instagram-@caioalgarteribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caioalgarteribas
+
 
 </div>
 
